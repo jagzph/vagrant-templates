@@ -1,6 +1,4 @@
 # vagrant-templates
-
-
 ```
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
